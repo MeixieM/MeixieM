@@ -92,3 +92,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/MeixieM/MeixieM/output/snake.svg" alt="Snake animation" />
+
+###
