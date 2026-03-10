@@ -5,9 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexfernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexfernan" height="30" width="40" /></a>
-<a href="https://fb.com/alexfernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexfernan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alexfernan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alexfernan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meixiem&show_icons=true&locale=en" alt="meixiem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meixiem&" alt="meixiem" /></p>
-
